@@ -26,7 +26,7 @@ I have no idea what i'm doing with Markdown but here we go!
 
 |Shape|Color|Quantity|
 |---|---|---|
-|sqwuare|blue|5|
+|square|blue|5|
 
 
 Sample text in codeblock `sudo yum update`
